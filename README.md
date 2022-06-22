@@ -1,3 +1,3 @@
 This is a test for QA4AI practices page.
 
-{% include_relative practices.html %}
+{% include_relative practices.md %}
