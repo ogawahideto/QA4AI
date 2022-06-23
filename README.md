@@ -1,7 +1,8 @@
-READEME
+事例集を皆で作ります。
+誰もが修正をしやすいようにGitHubを使います。
 
-{% include_relative practices.md %}
+事例集以外にもサイトを使いたくなるかもしれないので、index.mdからpractices.mdをインクルードしています。
+事例の追加は、practices.mdへお願いします。
 
-----
-AIプロダクト品質保証コンソーシアム (QA4AI Consorthium)<br>
-https://www.qa4ai.jp/
+章立ては作りながら見直しましょう。
+コンテンツが多くなったらファイルを分けても良いと思います。
