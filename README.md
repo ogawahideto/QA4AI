@@ -1,3 +1,3 @@
-This is a test for QA4AI practices page.
+This is a test page for QA4AI's list of practices.
 
 {% include_relative practices.md %}
